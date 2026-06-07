@@ -1,4 +1,4 @@
-# Intro 
+# Introduction
 The project is auxlilliary to the BLE Navigator. It serves to translate the SVG file's shapes into a grid compatible with the application's logic.
 There are 2 reasons for it's existance.
 ### 1. The logic is time-consuming
